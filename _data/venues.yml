@@ -1,9 +1,49 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRev":
+#   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+# "Vision":
+#   color: "#009f36"
+
+## colors tempalte
+
+# "SkyBlue":
+#   color: "#81ffff"   # 밝고 산뜻한 블루
+# "Coral":
+#   color: "#F57251"   # 따뜻한 코랄 오렌지
+# "OliveGreen":
+#   color: "#445D48"   # 차분한 올리브 그린
+# "Purple":
+#   color: "#9674d4"   # 현대적이고 세련된 퍼플
+# "Sunshine":
+#   color: "#F2B418"   # 산뜻한 옐로우
+# "Espresso":
+#   color: "#5E3023"   # 깊이감 있는 브라운
+# "PinkFunk":
+#   color: "#B9375E"   # 포인트용 핑크
+# "MidnightBlue":
+#   color: "#101356"   # 고급스러운 딥 블루
+# "Peach":
+#   color: "#F8E0C9"   # 부드러운 피치
+# "SlateGray":
+#   color: "#474747"   # 모던한 슬레이트 그레이
+# "arXiv":
+#   color: "#D7263D" 
+
+"ICASSP":
+  color: "#5E3023"   # 밝고 산뜻한 블루
+
+"Interspeech":
+  color: "#F57251"   # 따뜻한 코랄 오렌지
+
+"Preprint":
+  color: "#D7263D"   # arXiv red
+
+"ISMIR":
+  color: "#101356"
+
+"ACM MM":
+  color: "#445D48"   # 차분한 올리브 그린

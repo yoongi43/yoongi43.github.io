@@ -48,3 +48,5 @@ Seoul National University
 
 ---
 For a more detailed overview of my experience, please refer to my [CV](assets/pdf/Yunkee_CV.pdf).
+
+---

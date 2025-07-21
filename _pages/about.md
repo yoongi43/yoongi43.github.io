@@ -44,9 +44,10 @@ Seoul National University
 
 Seoul National University
 - Supervisor: Prof. David Donghoon Hyeon
+- Mar. 2014 ~ Feb. 2021
 
 
 ---
-For a more detailed overview of my experience, please refer to my [CV](assets/pdf/Yunkee_CV.pdf).
+**For a more detailed overview of my experience, please refer to my [CV](assets/pdf/Yunkee_CV.pdf).**
 
 ---

@@ -44,7 +44,7 @@ Seoul National University
 
 Seoul National University
 - Supervisor: Prof. David Donghoon Hyeon
-- Mar. 2014 ~ Feb. 2021
+- Mar. 2014 ~ Feb. 2021 
 
 
 ---

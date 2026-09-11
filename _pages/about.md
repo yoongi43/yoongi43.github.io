@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://marg.snu.ac.kr/'>Music and Audio Research Group (MARG), Seoul National University</a>
+subtitle: Research Scientist at <a href='https://moises.ai/'>Moises</a> &nbsp;|&nbsp; Ph.D., <a href='https://marg.snu.ac.kr/'>Music and Audio Research Group (MARG)</a>, Seoul National University
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,19 +24,47 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a PhD candidate at the Music and Audio Research Group (MARG), Seoul National University. My primary research interests include audio separation, audio codecs, and audio generation. Previously, I interned at Sony AI in Tokyo, Japan, and I will soon start an internship at MERL in Cambridge, MA, USA.
+I am a Research Scientist at [Moises](https://moises.ai/), working on music and audio AI. My primary research interests include audio separation, audio codecs, and audio generation.
+
+I received my Ph.D. in August 2026 from the Music and Audio Research Group (MARG) at Seoul National University, advised by Prof. Kyogu Lee. Previously, I was a research intern at Sony AI in Tokyo, Japan, and at MERL in Cambridge, MA, USA.
+
+---
+
+### Experience
+
+**Research Scientist**
+
+[Moises](https://moises.ai/)
+- May 2026 ~ Present
+
+---
+
+**Research Intern**
+
+MERL (Mitsubishi Electric Research Laboratories), Cambridge, MA, USA
+- Simultaneous multi-track music generation and source separation
+- Aug. 2025 ~ Feb. 2026
+
+---
+
+**Research Intern**
+
+Sony AI, Tokyo, Japan
+- Variable bitrate residual vector quantization for audio coding
+- May 2024 ~ Sep. 2024
 
 ---
 
 ### Education
 
-**Master's and Ph.D. Integrated Course in Interdisciplinary Program in Artificial Intelligence**
+**Ph.D. in Interdisciplinary Program in Artificial Intelligence** (M.S./Ph.D. Integrated Course)
 
 Seoul National University
 
-- Music and Audio Research Group (MARG), Seoul National University  
+- Music and Audio Research Group (MARG), Seoul National University
 - Supervisor: Prof. Kyogu Lee
-- Mar. 2021 ~ Present
+- Thesis: Unified Latent Diffusion Models for Simultaneous Multi-Track Music Generation and Separation
+- Mar. 2021 ~ Aug. 2026
 
 ---
 
@@ -44,10 +72,4 @@ Seoul National University
 
 Seoul National University
 - Supervisor: Prof. David Donghoon Hyeon
-- Mar. 2014 ~ Feb. 2021 
-
-
----
-**For a more detailed overview of my experience, please refer to my [CV](assets/pdf/Yunkee_CV.pdf).**
-
----
+- Mar. 2014 ~ Feb. 2021
